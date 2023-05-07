@@ -1,0 +1,15 @@
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/Itogi Bloka/bin/Debug/net6.0/Itogi Bloka
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/Itogi Bloka/bin/Debug/net6.0/Itogi Bloka.deps.json
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/Itogi Bloka/bin/Debug/net6.0/Itogi Bloka.runtimeconfig.json
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/Itogi Bloka/bin/Debug/net6.0/Itogi Bloka.dll
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/Itogi Bloka/bin/Debug/net6.0/Itogi Bloka.pdb
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/Itogi Bloka/obj/Debug/net6.0/Itogi Bloka.csproj.AssemblyReference.cache
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/Itogi Bloka/obj/Debug/net6.0/Itogi Bloka.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/Itogi Bloka/obj/Debug/net6.0/Itogi Bloka.AssemblyInfoInputs.cache
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/Itogi Bloka/obj/Debug/net6.0/Itogi Bloka.AssemblyInfo.cs
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/Itogi Bloka/obj/Debug/net6.0/Itogi Bloka.csproj.CoreCompileInputs.cache
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/Itogi Bloka/obj/Debug/net6.0/Itogi Bloka.dll
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/Itogi Bloka/obj/Debug/net6.0/refint/Itogi Bloka.dll
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/Itogi Bloka/obj/Debug/net6.0/Itogi Bloka.pdb
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/Itogi Bloka/obj/Debug/net6.0/Itogi Bloka.genruntimeconfig.cache
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/Itogi Bloka/obj/Debug/net6.0/ref/Itogi Bloka.dll
